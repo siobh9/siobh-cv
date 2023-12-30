@@ -68,10 +68,17 @@ export const RESUME_DATA = {
   skills: [
     "Solidity",
     "Python",
+    "Java",
+    "Typescript",
     "Rust (working on it)",
     "Docker",
     "Postgres",
+    "Confluent",
+    "Github CI/CD",
     "Knime",
+    "Tableau",
+    "Airflow",
+    "Jenkins",
     "React/Next.js",
   ],
   projects: [
