@@ -103,7 +103,7 @@ export const RESUME_DATA = {
         "Smart contract for on-chain Over-The-Counter (OTC) trading of native and ERC20 currencies",
       link: {
         label: "Escrow Trade",
-        href: "https://github.com/seanmc9/escrow-trade/blob/main/src/EscrowTrade.sol",
+        href: "https://github.com/seanmc9/escrow-trade",
       },
     },
     {
@@ -143,7 +143,7 @@ export const RESUME_DATA = {
       "Templates for deploying Retailist treasuries. See https://jango.eth.limo/9E01E72C-6028-48B7-AD04-F25393307132",
       link: {
         label: "Escrow Trade",
-        href: "https://github.com/seanmc9/escrow-trade/blob/main/src/EscrowTrade.sol",
+        href: "https://github.com/rev-net/revnet-contracts",
       },
     },
     {
