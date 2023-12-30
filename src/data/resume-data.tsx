@@ -99,5 +99,55 @@ export const RESUME_DATA = {
         href: "https://github.com/seanmc9/escrow-trade/blob/main/src/EscrowTrade.sol",
       },
     },
+    {
+      title: "Containerized Friendtech",
+      techStack: ["Side Project", "Solidity"],
+      description:
+        "A containerized implementation of the friend.tech smart contract",
+      link: {
+        label: "Containerized Friendtech",
+        href: "https://github.com/seanmc9/containerized-friendtech",
+      },
+    },
+    {
+      title: "Multichain Points",
+      techStack: ["Side Project", "Solidity"],
+      description:
+        "$POINTS contracts adapted for rollups",
+      link: {
+        label: "Multichain Points",
+        href: "https://github.com/seanmc9/multi-chain-points",
+      },
+    },
+    {
+      title: "Brume Wallet",
+      techStack: ["Contributor", "Solidity"],
+      description:
+      "The private Ethereum wallet with built-in Tor",
+      link: {
+        label: "Brume Wallet",
+        href: "https://github.com/brumewallet/onchain",
+      },
+    },
+    {
+      title: "Revnets",
+      techStack: ["Contributor", "Solidity"],
+      description:
+      "Templates for deploying Retailist treasuries. See https://jango.eth.limo/9E01E72C-6028-48B7-AD04-F25393307132",
+      link: {
+        label: "Escrow Trade",
+        href: "https://github.com/seanmc9/escrow-trade/blob/main/src/EscrowTrade.sol",
+      },
+    },
+    {
+      title: "Juicebox V4",
+      techStack: ["Contributor", "Solidity"],
+      description:
+      "Juicebox core V4 contracts",
+      link: {
+        label: "Juicebox V4",
+        href: "https://github.com/Bananapus/juice-contracts-v4",
+      },
+    },
   ],
 } as const;
