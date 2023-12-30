@@ -1,8 +1,6 @@
-![cv](https://github.com/BartoszJarocki/cv/assets/1017620/79bdb9fc-0b20-4d2c-aafe-0526ad4a71d2)
+# Sean McCaffery CV
 
-# Minimalist CV
-
-Simple web app that renders minimalist CV with print-friendly layout.
+Simple web app that renders minimalist CV with print-friendly layout, forked from https://github.com/BartoszJarocki/cv.
 
 Built with Next.js and shadcn/ui, deployed on Vercel.
 
@@ -13,35 +11,3 @@ Built with Next.js and shadcn/ui, deployed on Vercel.
 - Auto generated Layout
 - Responsive for different devices
 - Optimized for Next.js and Vercel
-
-# Getting Started Locally
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/BartoszJarocki/cv.git
-   ```
-
-2. Move to the cloned directory
-
-   ```bash
-   cd cv
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   yarn install
-   ```
-
-4. Start the local Server:
-
-   ```bash
-   yarn dev
-   ```
-
-5. Open the [Config file](./src/data/resume-data.tsx) and make changes
-
-# License
-
-[MIT](https://choosealicense.com/licenses/mit/)
