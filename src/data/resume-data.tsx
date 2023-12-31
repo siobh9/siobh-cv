@@ -68,9 +68,10 @@ export const RESUME_DATA = {
   skills: [
     "Solidity",
     "Python",
+    "Go",
     "Java",
     "Typescript",
-    "Rust (working on it)",
+    "Rust (learning)",
     "Docker",
     "Postgres",
     "Confluent",
@@ -150,7 +151,7 @@ export const RESUME_DATA = {
       title: "Revnets",
       techStack: ["Contributor", "Solidity"],
       description:
-      "Templates for deploying Retailist treasuries. See https://jango.eth.limo/9E01E72C-6028-48B7-AD04-F25393307132",
+      "Templates for deploying Retailist treasuries",
       link: {
         label: "Escrow Trade",
         href: "https://github.com/rev-net/revnet-contracts",
