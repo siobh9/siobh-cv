@@ -107,6 +107,16 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Pirates",
+      techStack: ["Side Project", "Solidity"],
+      description:
+        "An on-chain game where ships can move around a grid and fire at eachother to rack up hits",
+      link: {
+        label: "Pirates",
+        href: "https://github.com/seanmc9/pirates",
+      },
+    },
+    {
       title: "Containerized Friendtech",
       techStack: ["Side Project", "Solidity"],
       description:
