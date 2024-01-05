@@ -138,10 +138,20 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Containerized Revnets",
+      techStack: ["Side Project", "Solidity"],
+      description:
+        "A containerized version of Revnet contracts",
+      link: {
+        label: "Containerized Revnets",
+        href: "https://github.com/seanmc9/containerized-revnet",
+      },
+    },
+    {
       title: "Brume Wallet",
       techStack: ["Contributor", "Solidity"],
       description:
-      "The private Ethereum wallet with built-in Tor",
+        "The private Ethereum wallet with built-in Tor",
       link: {
         label: "Brume Wallet",
         href: "https://github.com/brumewallet/onchain",
@@ -151,7 +161,7 @@ export const RESUME_DATA = {
       title: "Revnets",
       techStack: ["Contributor", "Solidity"],
       description:
-      "Templates for deploying Retailist treasuries",
+        "Templates for deploying Retailist treasuries",
       link: {
         label: "Escrow Trade",
         href: "https://github.com/rev-net/revnet-contracts",
@@ -161,7 +171,7 @@ export const RESUME_DATA = {
       title: "Juicebox V4",
       techStack: ["Contributor", "Solidity"],
       description:
-      "Juicebox core V4 contracts",
+        "Juicebox core V4 contracts",
       link: {
         label: "Juicebox V4",
         href: "https://github.com/Bananapus/juice-contracts-v4",
