@@ -42,7 +42,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "jk labs inc.",
-      link: "https://twitter.com/jokerace_xyz",
+      link: "https://twitter.com/jokerace_io",
       badges: ["Remote"],
       title: "Co-founder",
       start: "2022",
@@ -93,8 +93,17 @@ export const RESUME_DATA = {
       ],
       description: "Contests for communities to make, execute, and reward decisions",
       link: {
-        label: "jokerace.xyz",
-        href: "https://jokerace.xyz/",
+        label: "JokeRace",
+        href: "https://jokerace.io/",
+      },
+    },
+    {
+      title: "JokeRace Docs",
+      techStack: ["Co-founder", "Markdown", "Next.js"],
+      description: "Docs and FAQ for JokeRace",
+      link: {
+        label: "JokeRace Docs",
+        href: "https://docs.jokerace.io/",
       },
     },
     {
@@ -145,6 +154,16 @@ export const RESUME_DATA = {
       link: {
         label: "Containerized Revnets",
         href: "https://github.com/seanmc9/containerized-revnet",
+      },
+    },
+    {
+      title: "CLT Mutual Aid",
+      techStack: ["Side Project", "Markdown", "Vite"],
+      description:
+        "A compilation of mutual aid resources in Charlotte, NC",
+      link: {
+        label: "CLT Mutual Aid",
+        href: "https://github.com/seanmc9/cltmutualaid",
       },
     },
     {
