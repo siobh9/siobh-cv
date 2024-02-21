@@ -71,7 +71,6 @@ export const RESUME_DATA = {
     "Go",
     "Java",
     "Typescript",
-    "Rust (learning)",
     "Docker",
     "Postgres",
     "Confluent",
