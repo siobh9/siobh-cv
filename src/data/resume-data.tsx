@@ -166,6 +166,16 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Zoom",
+      techStack: ["Solidity"],
+      description:
+        "A token that goes zoom.",
+      link: {
+        label: "Zoom",
+        href: "https://github.com/seanmc9/zoom",
+      },
+    },
+    {
       title: "Brume Wallet",
       techStack: ["Contributor", "Solidity"],
       description:
