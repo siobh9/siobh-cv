@@ -169,7 +169,7 @@ export const RESUME_DATA = {
       title: "Zoom",
       techStack: ["Solidity"],
       description:
-        "A token that goes zoom.",
+        "A token that goes zoom",
       link: {
         label: "Zoom",
         href: "https://github.com/seanmc9/zoom",
@@ -179,7 +179,7 @@ export const RESUME_DATA = {
       title: "Puzzle",
       techStack: ["Solidity"],
       description:
-        "A fun puzzle contract.",
+        "A fun puzzle contract",
       link: {
         label: "Puzzle",
         href: "https://github.com/seanmc9/puzzle",
