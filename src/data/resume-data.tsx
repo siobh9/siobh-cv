@@ -126,6 +126,36 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Zoom",
+      techStack: ["Solidity"],
+      description:
+        "A token that goes zoom",
+      link: {
+        label: "Zoom",
+        href: "https://github.com/seanmc9/zoom",
+      },
+    },
+    {
+      title: "Puzzle",
+      techStack: ["Solidity"],
+      description:
+        "A fun puzzle contract",
+      link: {
+        label: "Puzzle",
+        href: "https://github.com/seanmc9/puzzle",
+      },
+    },
+    {
+      title: "CLT Mutual Aid",
+      techStack: ["Side Project", "Markdown", "Vite"],
+      description:
+        "A compilation of mutual aid resources in Charlotte, NC",
+      link: {
+        label: "CLT Mutual Aid",
+        href: "https://github.com/seanmc9/cltmutualaid",
+      },
+    },
+    {
       title: "Containerized Friendtech",
       techStack: ["Side Project", "Solidity"],
       description:
@@ -153,36 +183,6 @@ export const RESUME_DATA = {
       link: {
         label: "Containerized Revnets",
         href: "https://github.com/seanmc9/containerized-revnet",
-      },
-    },
-    {
-      title: "CLT Mutual Aid",
-      techStack: ["Side Project", "Markdown", "Vite"],
-      description:
-        "A compilation of mutual aid resources in Charlotte, NC",
-      link: {
-        label: "CLT Mutual Aid",
-        href: "https://github.com/seanmc9/cltmutualaid",
-      },
-    },
-    {
-      title: "Zoom",
-      techStack: ["Solidity"],
-      description:
-        "A token that goes zoom",
-      link: {
-        label: "Zoom",
-        href: "https://github.com/seanmc9/zoom",
-      },
-    },
-    {
-      title: "Puzzle",
-      techStack: ["Solidity"],
-      description:
-        "A fun puzzle contract",
-      link: {
-        label: "Puzzle",
-        href: "https://github.com/seanmc9/puzzle",
       },
     },
     {
