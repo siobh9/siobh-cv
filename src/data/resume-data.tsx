@@ -176,6 +176,16 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Puzzle",
+      techStack: ["Solidity"],
+      description:
+        "A fun puzzle contract.",
+      link: {
+        label: "Puzzle",
+        href: "https://github.com/seanmc9/puzzle",
+      },
+    },
+    {
       title: "Brume Wallet",
       techStack: ["Contributor", "Solidity"],
       description:
