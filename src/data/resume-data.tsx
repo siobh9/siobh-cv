@@ -127,7 +127,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Zoom",
-      techStack: ["Solidity"],
+      techStack: ["Side Project", "Solidity"],
       description:
         "A token that goes zoom",
       link: {
@@ -137,7 +137,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Puzzle",
-      techStack: ["Solidity"],
+      techStack: ["Side Project", "Solidity"],
       description:
         "A fun puzzle contract",
       link: {
