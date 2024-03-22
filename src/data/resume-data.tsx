@@ -116,6 +116,16 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Auto-Buy Contract",
+      techStack: ["Side Project", "Solidity"],
+      description:
+        "A contract that uses any and all native token it is sent to buy from a Uniswap pool",
+      link: {
+        label: "Auto-Buy Contract",
+        href: "https://github.com/seanmc9/auto-buy-contract/tree/main",
+      },
+    },
+    {
       title: "Pirates",
       techStack: ["Side Project", "Solidity"],
       description:
