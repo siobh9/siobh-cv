@@ -204,7 +204,7 @@ export const RESUME_DATA = {
         label: "NFT Miner",
         href: "https://github.com/seanmc9/nft-miner",
       },
-    }
+    },
     {
       title: "Brume Wallet",
       techStack: ["Contributor", "Solidity"],
