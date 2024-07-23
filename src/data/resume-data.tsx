@@ -201,8 +201,8 @@ export const RESUME_DATA = {
       description:
         "A token that NFT holders can mine",
       link: {
-        label: "NFT Miner",
-        href: "https://github.com/seanmc9/nft-miner",
+        label: "NFT Mining",
+        href: "https://github.com/seanmc9/nft-mining",
       },
     },
     {
