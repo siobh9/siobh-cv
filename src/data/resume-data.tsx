@@ -196,6 +196,16 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "NFT Miner",
+      techStack: ["Side Project", "Solidity"],
+      description:
+        "A token that NFT holders can mine",
+      link: {
+        label: "NFT Miner",
+        href: "https://github.com/seanmc9/nft-miner",
+      },
+    }
+    {
       title: "Brume Wallet",
       techStack: ["Contributor", "Solidity"],
       description:
