@@ -196,7 +196,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "NFT Miner",
+      title: "NFT Mining",
       techStack: ["Side Project", "Solidity"],
       description:
         "A token that NFT holders can mine",
