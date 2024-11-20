@@ -21,7 +21,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/sean-mccaffery/",
+        url: "https://www.linkedin.com/in/siobhán-mccaffery/",
         icon: LinkedInIcon,
       },
       {
