@@ -9,14 +9,14 @@ export const RESUME_DATA = {
     "Software Engineer",
   summary:
     "I like to build cool, open-source things with good people.",
-  avatarUrl: "https://avatars.githubusercontent.com/seanmc9 ",
-  personalWebsiteUrl: "https://github.com/seanmc9",
+  avatarUrl: "https://avatars.githubusercontent.com/siobh9 ",
+  personalWebsiteUrl: "https://github.com/siobh9",
   contact: {
     email: "sean.mccaffery9@gmail.com",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/seanmc9",
+        url: "https://github.com/siobh9",
         icon: GitHubIcon,
       },
       {
@@ -112,7 +112,7 @@ export const RESUME_DATA = {
         "Smart contract for on-chain Over-The-Counter (OTC) trading of native and ERC20 currencies",
       link: {
         label: "Escrow Trade",
-        href: "https://github.com/seanmc9/escrow-trade",
+        href: "https://github.com/siobh9/escrow-trade",
       },
     },
     {
@@ -122,7 +122,7 @@ export const RESUME_DATA = {
         "A contract that uses any and all native currency it is sent to buy from a Uniswap pool",
       link: {
         label: "Auto-Buy Contract",
-        href: "https://github.com/seanmc9/auto-buy-contract/tree/main",
+        href: "https://github.com/siobh9/auto-buy-contract/tree/main",
       },
     },
     {
@@ -132,7 +132,7 @@ export const RESUME_DATA = {
         "An on-chain game where ships can move around a grid and fire at eachother to rack up hits",
       link: {
         label: "Pirates",
-        href: "https://github.com/seanmc9/pirates",
+        href: "https://github.com/siobh9/pirates",
       },
     },
     {
@@ -142,7 +142,7 @@ export const RESUME_DATA = {
         "A token that goes zoom",
       link: {
         label: "Zoom",
-        href: "https://github.com/seanmc9/zoom",
+        href: "https://github.com/siobh9/zoom",
       },
     },
     {
@@ -152,7 +152,7 @@ export const RESUME_DATA = {
         "A fun puzzle contract",
       link: {
         label: "Puzzle",
-        href: "https://github.com/seanmc9/puzzle",
+        href: "https://github.com/siobh9/puzzle",
       },
     },
     {
@@ -162,7 +162,7 @@ export const RESUME_DATA = {
         "A compilation of mutual aid resources in Charlotte, NC",
       link: {
         label: "CLT Mutual Aid",
-        href: "https://github.com/seanmc9/cltmutualaid",
+        href: "https://github.com/siobh9/cltmutualaid",
       },
     },
     {
@@ -172,7 +172,7 @@ export const RESUME_DATA = {
         "A containerized implementation of the friend.tech smart contract",
       link: {
         label: "Containerized Friendtech",
-        href: "https://github.com/seanmc9/containerized-friendtech",
+        href: "https://github.com/siobh9/containerized-friendtech",
       },
     },
     {
@@ -182,7 +182,7 @@ export const RESUME_DATA = {
         "$POINTS contracts adapted for rollups",
       link: {
         label: "Multichain Points",
-        href: "https://github.com/seanmc9/multi-chain-points",
+        href: "https://github.com/siobh9/multi-chain-points",
       },
     },
     {
@@ -192,7 +192,7 @@ export const RESUME_DATA = {
         "A containerized version of Revnet contracts",
       link: {
         label: "Containerized Revnets",
-        href: "https://github.com/seanmc9/containerized-revnet",
+        href: "https://github.com/siobh9/containerized-revnet",
       },
     },
     {
@@ -202,7 +202,7 @@ export const RESUME_DATA = {
         "A token that NFT holders can mine",
       link: {
         label: "NFT Mining",
-        href: "https://github.com/seanmc9/nft-mining",
+        href: "https://github.com/siobh9/nft-mining",
       },
     },
     {
