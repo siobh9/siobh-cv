@@ -9,10 +9,10 @@ export const RESUME_DATA = {
     "Software Engineer",
   summary:
     "I like to build cool, open-source things with good people.",
-  avatarUrl: "https://avatars.githubusercontent.com/siobh9 ",
+  avatarUrl: "https://avatars.githubusercontent.com/siobh9",
   personalWebsiteUrl: "https://github.com/siobh9",
   contact: {
-    email: "sean.mccaffery9@gmail.com",
+    email: "smpartnersllc@proton.me",
     social: [
       {
         name: "GitHub",
