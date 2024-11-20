@@ -1,7 +1,7 @@
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Sean McCaffery",
+  name: "Siobhán McCaffery",
   initials: "SM",
   location: "Charlotte, United States, ET",
   locationLink: "https://www.google.com/maps/place/Charlotte",
@@ -26,7 +26,7 @@ export const RESUME_DATA = {
       },
       {
         name: "Twitter",
-        url: "https://twitter.com/seanmc_eth",
+        url: "https://twitter.com/siobh_eth",
         icon: XIcon,
       },
     ],
