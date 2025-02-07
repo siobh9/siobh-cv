@@ -136,16 +136,6 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Zoom",
-      techStack: ["Side Project", "Solidity"],
-      description:
-        "A token that goes zoom",
-      link: {
-        label: "Zoom",
-        href: "https://github.com/siobh9/zoom",
-      },
-    },
-    {
       title: "Puzzle",
       techStack: ["Side Project", "Solidity"],
       description:
