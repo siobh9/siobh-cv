@@ -46,7 +46,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Co-founder",
       start: "2022",
-      end: "2024",
+      end: "2025",
     },
     {
       company: "Flipside Crypto",
