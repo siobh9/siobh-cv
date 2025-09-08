@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   about:
     "Software Engineer",
   summary:
-    "I like to build cool, open-source systems with good people.",
+    "I like to design, build, and maintain systems.",
   avatarUrl: "https://avatars.githubusercontent.com/siobh9",
   personalWebsiteUrl: "https://github.com/siobh9",
   contact: {
