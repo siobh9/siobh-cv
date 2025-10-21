@@ -122,7 +122,7 @@ export const RESUME_DATA = {
         "A contract that uses any and all native currency it is sent to buy from a Uniswap pool",
       link: {
         label: "Auto-Buy Contract",
-        href: "https://github.com/siobh9/auto-buy-contract/tree/main",
+        href: "https://github.com/jk-labs-inc/auto-buy-contract",
       },
     },
     {
@@ -183,16 +183,6 @@ export const RESUME_DATA = {
       link: {
         label: "Containerized Revnets",
         href: "https://github.com/siobh9/containerized-revnet",
-      },
-    },
-    {
-      title: "NFT Mining",
-      techStack: ["Side Project", "Solidity"],
-      description:
-        "A token that NFT holders can mine",
-      link: {
-        label: "NFT Mining",
-        href: "https://github.com/siobh9/nft-mining",
       },
     },
     {
