@@ -106,113 +106,23 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Escrow Trade",
-      techStack: ["Side Project", "Solidity"],
-      description:
-        "Smart contract for on-chain Over-The-Counter (OTC) trading of native and ERC20 currencies",
-      link: {
-        label: "Escrow Trade",
-        href: "https://github.com/siobh9/escrow-trade",
-      },
-    },
-    {
       title: "Auto-Buy Contract",
       techStack: ["Side Project", "Solidity"],
       description:
-        "A contract that uses any and all native currency it is sent to buy from a Uniswap pool",
+        "Smart contract that buys from a Uniswap pool with native currency sent to it",
       link: {
         label: "Auto-Buy Contract",
         href: "https://github.com/jk-labs-inc/auto-buy-contract",
       },
     },
     {
-      title: "Pirates",
-      techStack: ["Side Project", "Solidity"],
+      title: "Mask Bloc Bot",
+      techStack: ["Side Project", "Python", "Docker"],
       description:
-        "An on-chain game where ships can move around a grid and fire at eachother to rack up hits",
+        "Discord bot for an international mask bloc server",
       link: {
-        label: "Pirates",
-        href: "https://github.com/siobh9/pirates",
-      },
-    },
-    {
-      title: "Puzzle",
-      techStack: ["Side Project", "Solidity"],
-      description:
-        "A fun puzzle contract",
-      link: {
-        label: "Puzzle",
-        href: "https://github.com/siobh9/puzzle",
-      },
-    },
-    {
-      title: "CLT Mutual Aid",
-      techStack: ["Side Project", "Markdown", "Vite"],
-      description:
-        "A compilation of mutual aid resources in Charlotte, NC",
-      link: {
-        label: "CLT Mutual Aid",
-        href: "https://github.com/siobh9/cltmutualaid",
-      },
-    },
-    {
-      title: "Containerized Friendtech",
-      techStack: ["Side Project", "Solidity"],
-      description:
-        "A containerized implementation of the friend.tech smart contract",
-      link: {
-        label: "Containerized Friendtech",
-        href: "https://github.com/siobh9/containerized-friendtech",
-      },
-    },
-    {
-      title: "Multichain Points",
-      techStack: ["Side Project", "Solidity"],
-      description:
-        "$POINTS contracts adapted for rollups",
-      link: {
-        label: "Multichain Points",
-        href: "https://github.com/siobh9/multi-chain-points",
-      },
-    },
-    {
-      title: "Containerized Revnets",
-      techStack: ["Side Project", "Solidity"],
-      description:
-        "A containerized version of Revnet contracts",
-      link: {
-        label: "Containerized Revnets",
-        href: "https://github.com/siobh9/containerized-revnet",
-      },
-    },
-    {
-      title: "Brume Wallet",
-      techStack: ["Contributor", "Solidity"],
-      description:
-        "The private Ethereum wallet with built-in Tor",
-      link: {
-        label: "Brume Wallet",
-        href: "https://github.com/brumewallet/onchain",
-      },
-    },
-    {
-      title: "Revnets",
-      techStack: ["Contributor", "Solidity"],
-      description:
-        "Templates for deploying Retailist treasuries",
-      link: {
-        label: "Escrow Trade",
-        href: "https://github.com/rev-net/revnet-contracts",
-      },
-    },
-    {
-      title: "Juicebox V4",
-      techStack: ["Contributor", "Solidity"],
-      description:
-        "Juicebox core V4 contracts",
-      link: {
-        label: "Juicebox V4",
-        href: "https://github.com/Bananapus/juice-contracts-v4",
+        label: "Mask Bloc Bot",
+        href: "https://github.com/siobh9/mask-bloc-bot",
       },
     },
   ],
