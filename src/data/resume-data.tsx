@@ -86,7 +86,7 @@ export const RESUME_DATA = {
     {
       title: "JokeRace",
       techStack: [
-        "Co-founder",
+        "Co-Founder",
         "Solidity",
         "TypeScript",
         "Next.js",
@@ -99,7 +99,7 @@ export const RESUME_DATA = {
     },
     {
       title: "JokeRace Docs",
-      techStack: ["Co-founder", "Markdown", "Vite"],
+      techStack: ["Co-Founder", "Markdown", "Vite"],
       description: "Docs and FAQ for JokeRace",
       link: {
         label: "JokeRace Docs",
