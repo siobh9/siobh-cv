@@ -79,7 +79,8 @@ export const RESUME_DATA = {
     "Tableau",
     "Airflow",
     "Jenkins",
-    "React/Next.js",
+    "React",
+    "Next.js"
   ],
   projects: [
     {
