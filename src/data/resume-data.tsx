@@ -41,10 +41,10 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "jk labs inc.",
+      company: "JokeRace",
       link: "https://twitter.com/jokerace_io",
       badges: ["Remote"],
-      title: "Co-founder",
+      title: "Co-Founder",
       start: "2022",
       end: "2025",
     },
