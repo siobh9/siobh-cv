@@ -91,7 +91,7 @@ export const RESUME_DATA = {
         "TypeScript",
         "Next.js",
       ],
-      description: "Contests for communities to run, grow, and monetize",
+      description: "Vote. Rally. Earn",
       link: {
         label: "JokeRace",
         href: "https://jokerace.io/",
